@@ -1,4 +1,4 @@
-secret_word= "giraffe"
+secret_word= "Uganda"
 guess = ""
 guess_count = 0
 guess_limit = 3
